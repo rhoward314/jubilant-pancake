@@ -1,5 +1,7 @@
-print('pancakes are delicious')
+print('pancakes are NOT delicious')
 
 print('agreed')
 
-print('blasphemy! waffles are superior')
+print('aaaaaaaaaaaa blasphemy! waffles are superior')
+
+print('im bored lets get lunch')
