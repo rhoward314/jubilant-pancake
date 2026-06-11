@@ -1,2 +1,1 @@
-Bob is totally editing this line, deleting everyhing and writing something over it all willy nilly. 
-
+Alice and Bob both changed this line, and settled on this neutral / boring one. 
