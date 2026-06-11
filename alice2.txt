@@ -1,1 +1,1 @@
-Alice file2
+Alice is editing this one line to cause a conflict with Bob. Bob will delete and edit the same original line, having not run `git pull` before starting his work (or him and Alice started at the same time). 
